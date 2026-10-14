@@ -3,7 +3,7 @@
     {
       "id": "1",
       "name": "Ritesh Soni",
-      "email": "ritesh@gmail.com",
+      "email": "riteshsoni35468@gmail.com",
       "password": 123456,
       "role": "Admin",
       "avatar": "https://in.bmscdn.com/artist/anil-bajpai-33204-1728039313.jpg",
@@ -20,7 +20,7 @@
     {
       "id": "2",
       "name": "Rahul Sharma",
-      "email": "rahul@example.com",
+      "email": "rahul@gmail.com",
       "password": 123456,
       "role": "User",
       "avatar": "",
@@ -33,91 +33,6 @@
         "country": "India"
       },
       "createdAt": "2026-09-02"
-    },
-    {
-      "id": "3",
-      "name": "Priya Singh",
-      "email": "priya@example.com",
-      "password": 123456,
-      "role": "User",
-      "avatar": "",
-      "phone": 9876543212,
-      "address": {
-        "street": "Indira Nagar",
-        "city": "Lucknow",
-        "state": "Uttar Pradesh",
-        "pincode": 226016,
-        "country": "India"
-      },
-      "createdAt": "2026-09-03"
-    },
-    {
-      "id": "4",
-      "name": "Aman Verma",
-      "email": "aman@example.com",
-      "password": 123456,
-      "role": "User",
-      "avatar": "",
-      "phone": 9876543213,
-      "address": {
-        "street": "Sigra",
-        "city": "Varanasi",
-        "state": "Uttar Pradesh",
-        "pincode": 221010,
-        "country": "India"
-      },
-      "createdAt": "2026-09-04"
-    },
-    {
-      "id": "5",
-      "name": "Neha Gupta",
-      "email": "neha@example.com",
-      "password": 123456,
-      "role": "user",
-      "avatar": "",
-      "phone": 9876543214,
-      "address": {
-        "street": "Mahanagar",
-        "city": "Lucknow",
-        "state": "Uttar Pradesh",
-        "pincode": 226006,
-        "country": "India"
-      },
-      "createdAt": "2026-09-05"
-    },
-    {
-      "id": "ASWasYmdXEw",
-      "name": "Anil kumar",
-      "email": "anil@gmail.com",
-      "password": "anil@123",
-      "role": "User",
-      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqm5XGOCJUsAKZ7NdRHP-SrI5V5TGCQyllWiLNtNjpA&s",
-      "phone": "+91 9209203983",
-      "address": {
-        "street": "Kishan Petrol pump",
-        "city": "Gauriganj",
-        "state": "Uttar Pradesh",
-        "pincode": "227409",
-        "country": "India"
-      },
-      "createdAt": "25/09/2026"
-    },
-    {
-      "name": "Amit kumar",
-      "email": "amit123@gmail.com",
-      "password": "amit@123",
-      "role": "User",
-      "avatar": "",
-      "phone": null,
-      "address": {
-        "street": "",
-        "city": "",
-        "state": "",
-        "pincode": "",
-        "country": ""
-      },
-      "createdAt": "30/09/2026",
-      "id": "oW4FY8mlMU0"
     }
   ],
 
@@ -887,6 +802,5 @@
       "productCount": 1,
       "isFeatured": true
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
